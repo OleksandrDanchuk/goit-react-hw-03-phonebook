@@ -1,0 +1,13 @@
+.filter_container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.filter_input {
+  margin-top: 15px;
+  width: 300px;
+  font-size: 20px;
+  padding: 10px;
+}
